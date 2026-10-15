@@ -1,4 +1,4 @@
-# Ekho Technical Assessment: Greenfield (1 hour 30 minutes)
+# Ekho Technical Assessment: Greenfield (1 hour 15 minutes)
 
 You are encouraged to use AI tools. Use whatever helps you work effectively.
 
