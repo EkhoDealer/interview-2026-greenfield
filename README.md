@@ -4,7 +4,7 @@ You are encouraged to use AI tools. Use whatever helps you work effectively.
 
 ## GenAI Hackathon
 
-You have 1 hour 15 minutes to build, followed by 15 minutes of discussion with your interviewer.
+You have 1 hour to build, followed by 15 minutes of discussion with your interviewer.
 
 Build a tool for independent business owners to set up booking pages. Appointments can be for different services with different durations. Business owners should be able to set their own availability and share booking links.
 
