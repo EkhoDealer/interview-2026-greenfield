@@ -15,3 +15,6 @@ Build a tool for independent business owners to set up booking pages. Appointmen
 - Thoughtful architecture - schemas should work gracefully together and be easily extendable.
 - Interrogate requirements further when you need more context.
 - Understand the trade-offs behind your decisions.
+
+### Example
+https://friendofabarbernyc.com
