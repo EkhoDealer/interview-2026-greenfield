@@ -8,6 +8,10 @@ You have 1 hour to build, followed by 15 minutes of discussion with your intervi
 
 Build a tool for independent business owners to set up booking pages. Appointments can be for different services with different durations. Business owners should be able to set their own availability and share booking links.
 
+## Requirements
+
+There will be a rolling set of requirements that are unblocked as you progress through the project.
+
 ### What We're Looking For
 
 - A working product that covers the requirements of the user.
