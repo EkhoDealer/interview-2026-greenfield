@@ -1,6 +1,6 @@
 # Ekho Technical Assessment: Greenfield (1 hour 15 minutes)
 
-You are encouraged to use AI tools. Use whatever helps you work effectively.
+You are encouraged to use AI tools. Use whatever helps you work effectively. You have access to Claude Code, Cursor, and VS Code.
 
 ## GenAI Hackathon
 
